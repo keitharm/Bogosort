@@ -1,5 +1,5 @@
 # Bogosort
-[https://en.wikipedia.org/wiki/Bogosort](Bogosort) implemented in C++
+[Bogosort](https://en.wikipedia.org/wiki/Bogosort) implemented in C++
 
 Basically, provide the program with a list of unsorted numbers and it'll sort them...by choosing two random indexes and swapping them over and over until the list is finally sorted :)
 
